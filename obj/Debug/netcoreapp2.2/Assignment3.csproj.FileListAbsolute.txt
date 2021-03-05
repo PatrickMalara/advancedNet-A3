@@ -1,0 +1,11 @@
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.deps.json
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.json
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.dev.json
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.dll
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.csprojAssemblyReference.cache
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfo.cs
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.pdb
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.dll
+C:\Users\Patrick Malara\Documents\School\Advanced NET\Assignment3\Assignment3\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.pdb
